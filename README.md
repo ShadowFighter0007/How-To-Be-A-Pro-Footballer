@@ -2,17 +2,10 @@
 <html>
 <head>
 <title>For Football Lovers</title>
-<style type="text/css">
-h1{color:blue}
-h2{color:red}
-h3{color:violet}
-body{background-color:yellow}
-</style>
 </head>
 <body>
 <center>
 <h1><u> Football Lovers</u></h1>
-<img src="2.jpg" height="502" width="502">
 </center>
 <h3><i>Personal Information</i></h3>
 <table>
